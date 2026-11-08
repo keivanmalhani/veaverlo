@@ -1,10 +1,10 @@
-![CineCerca — cinema discovery for Mexico](assets/cinecerca-banner.svg)
+![Ve a Verlo — cinema discovery for Mexico](assets/cinecerca-banner.svg)
 
-# CineCerca
+# Ve a Verlo
 
 **An iPhone-first cinema discovery app for Mexico, with a responsive web companion.**
 
-I'm building CineCerca to make it easier to find a film, compare screenings across cinemas, and discover the next time it plays near you.
+I'm building Ve a Verlo to make it easier to find a film, compare screenings across cinemas, and discover the next time it plays near you.
 
 ## The experience
 
@@ -18,7 +18,7 @@ I'm building CineCerca to make it easier to find a film, compare screenings acro
 
 ## Project status
 
-**In development.** The working local prototype covers Mexico City. Broader coverage, production integrations, and a signed iPhone release are still being prepared. It is not available on the App Store yet.
+**Public web beta: [veaverlo.pages.dev](https://veaverlo.pages.dev).** The current pilot covers metro Mexico City. Published showtimes refresh on the hosted server without the owner’s computer being on. Coverage is partial; this is not an official live inventory or seat-reservation service. Broader coverage, production accounts, subscriptions and a signed iPhone release are still being prepared. It is not available on the App Store yet.
 
 Source coverage and metadata vary by cinema. Ratings and driving times are shown only when available; driving estimates do not include live traffic.
 
